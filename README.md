@@ -1,0 +1,2 @@
+# premium-raku-fire-001-raku-firing-technique-planner
+Your raku firings are inconsistent because you're juggling temperature logs, timing notes, and glaze experiments across scattered notebooks and memory. The Raku Firing Technique Planner consolidates everything into one visual, searchable system so you capture what actually works.  This Notion template eliminates guesswork by letting you document ev
